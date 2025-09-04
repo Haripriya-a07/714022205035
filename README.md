@@ -39,11 +39,3 @@ The task is to build a **user-friendly React-based URL Shortener** that provides
    * Short link details
    * Click counts
    * Timestamps, sources, and approximate geo-location
-
-
-```
-
----
-
-Would you like me to also draft the **Design Document (architecture + decisions + assumptions)** mentioned in the evaluation? That’s usually required along with the README.
-```
