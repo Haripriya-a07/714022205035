@@ -20,30 +20,6 @@ The task is to build a **user-friendly React-based URL Shortener** that provides
 - Built using **React + Material UI** for a clean and responsive UI
 
 
-## Project Structure
-react-url-shortener/
-│── public/
-│── src/
-│   ├── components/
-│   │   ├── UrlForm.jsx          # Form for shortening URLs
-│   │   ├── UrlList.jsx          # Display list of shortened URLs
-│   │   ├── AnalyticsTable.jsx   # Detailed analytics table
-│   │
-│   ├── pages/
-│   │   ├── ShortenerPage.jsx    # Main URL shortener page
-│   │   ├── StatsPage.jsx        # URL statistics page
-│   │
-│   ├── utils/
-│   │   ├── loggerMiddleware.js  # Mandatory logging middleware
-│   │   ├── validation.js        # Input validation helpers
-│   │
-│   ├── App.js                   # Routes + navigation
-│   ├── index.js                 # Entry point
-│
-│── package.json
-│── README.md
-
-
 ##  Tech Stack
 
 * **React** – Frontend framework
